@@ -1,4 +1,4 @@
-<h2 align="center">Oii!! Meu nome é Julia Rosa, aqui está um pouco do meu trabalho!</h2>
+<h2 align="center">Oii!! Meu nome é Julia Rosa ★ e aqui está um pouco do meu trabalho! Carpe Diem</h2>
 
 ###
 
